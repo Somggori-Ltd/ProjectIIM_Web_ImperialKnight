@@ -29,6 +29,7 @@
     <type fullname="Somggori.Timeline.MoveClip" preserve="all" />
     <type fullname="Somggori.Timeline.MoveTrack" preserve="all" />
     <type fullname="IIM.Skill.SkillEnemyCloseAttack" preserve="nothing" serialized="true" />
+    <type fullname="IIM.Skill.SkillEnemyHalfCircleAttack" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillEnemyRangeAttack" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillImperialKnight1" preserve="nothing" serialized="true" />
     <type fullname="IIM.Skill.SkillImperialKnight2" preserve="nothing" serialized="true" />
